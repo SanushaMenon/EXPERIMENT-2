@@ -1,0 +1,22 @@
+//PRN: 22070123099
+//EXP.2
+//NAME:SANUSHA MENON
+
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+  
+    //BOOLEAN COMPARISON
+    bool imagecolour=true;
+    if (imagecolour){
+        cout<<"IMAGE IS COLOURFUL"<<endl;
+    }
+    else {
+        cout<<"IMAGE IS NOT COLOURFUL"<<endl;
+    }
+    /*/OUTPUT
+    IMAGE IS COLOURFUL
+    /*/
+
+}
