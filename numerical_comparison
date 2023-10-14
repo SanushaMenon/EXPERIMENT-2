@@ -1,0 +1,31 @@
+//PRN: 22070123099
+//EXP.2
+//NAME:SANUSHA MENON
+
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+
+    //NUMERICAL COMPARISON
+    int num1;
+    int num2;
+
+    cout<<"Enter first number: ";
+    cin>>num1;
+    cout<<"Enter second number: ";
+    cin>>num2;
+    if (num1>num2){
+        cout<<"number 1 is greater than number 2"<<endl;
+    }
+    else {
+        cout<<"number 2 is greater than number 1"<<endl;
+    }
+}
+    /*/OUTPUT
+    Enter first number: 1
+    Enter second number: 2
+    number 2 is greater than number 1
+    /*/
+
+   
