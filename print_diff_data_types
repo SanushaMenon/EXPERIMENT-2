@@ -1,0 +1,34 @@
+//PRN: 22070123099
+//EXP.2
+//NAME:SANUSHA MENON
+
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    int MyintVar=10;
+    float MyfloatVar=10.5;
+    double MydoubleVar=13.89;
+    char MycharVar='#';
+    string MystrVar="Hey";
+    bool MyboolVar=true;
+
+    //PRINTING DIFFERENT DATA TYPES
+    cout<<"The value of int variable is " <<MyintVar<<endl;
+    cout<<"The value of float variable is " <<MyfloatVar<<endl;
+    cout<<"The value of double variable is " <<MydoubleVar<<endl;
+    cout<<"The value of char variable is " <<MycharVar<<endl;
+    cout<<"The value of string variable is " <<MystrVar<<endl;
+    cout<<"The value of boolean variable is " <<MyboolVar<<endl;
+    }
+    
+    /*/OUTPUT
+    The value of int variable is 10
+    The value of float variable is 10.5
+    The value of double variable is 13.89
+    The value of char variable is #
+    The value of string variable is Hey
+    The value of boolean variable is 1
+    /*/
+
+   
