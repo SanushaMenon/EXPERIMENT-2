@@ -1,0 +1,22 @@
+//PRN: 22070123099
+//EXP.2
+//NAME:SANUSHA MENON
+
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+  
+    //INPUT BOOL VALUE
+    bool booleannum;
+    cout<<"Enter boolean value:";
+    cin>>boolalpha;
+    cin>>booleannum;
+    cout<<booleannum;
+
+    /*/OUTPUT
+    Enter boolean value:true
+    1
+    /*/
+
+}
