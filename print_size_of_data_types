@@ -1,0 +1,33 @@
+//PRN: 22070123099
+//EXP.2
+//NAME:SANUSHA MENON
+
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    int MyintVar=10;
+    float MyfloatVar=10.5;
+    double MydoubleVar=13.89;
+    char MycharVar='#';
+    string MystrVar="Hey";
+    bool MyboolVar=true;
+
+
+    //PRINTING SIZE OF DATA TYPES
+    cout<<"The size of int variable is " <<sizeof(MyintVar)<<" bytes"<<endl;
+    cout<<"The size of float variable is " <<sizeof(MyfloatVar)<<" bytes"<<endl;
+    cout<<"The size of double variable is " <<sizeof(MydoubleVar)<<" bytes"<<endl;
+    cout<<"The size of char variable is " <<sizeof(MycharVar)<<" bytes"<<endl;
+    cout<<"The size of boolean variable is " <<sizeof(MyboolVar)<<" bytes"<<endl;
+    }
+
+    /*/OUTPUT
+    The size of int variable is 4 bytes
+    The size of float variable is 4 bytes
+    The size of double variable is 8 bytes
+    The size of char variable is 1 bytes
+    The size of boolean variable is 1 bytes
+    /*/
+
+  
