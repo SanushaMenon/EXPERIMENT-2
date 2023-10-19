@@ -1,6 +1,6 @@
 # EXPERIMENT-2
 AIM
-To understand different data types and print theur size in C++.
+To understand different data types and print their size in C++.
 
 THEORY
 C++ supports a wide variety of data types and the programmer can select the data type appropriate to the needs of the application. Data types specify the size and types of values to be stored.
